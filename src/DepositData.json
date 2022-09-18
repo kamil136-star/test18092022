@@ -1,0 +1,86 @@
+{
+    "active": [
+        {
+            "property": {
+                "address": {
+                    "street": "RT nagar",
+                    "city": "Bangalore",
+                    "state": "Karnataka"
+                },
+                "imageUrl": "lostround.png"
+            },
+            "moveInDate": "25 September 2022",
+            "rent": 5000.00,
+            "deposit": {
+                "amount": 9000.00,
+                "type": "First, Last & Security"
+            },
+            "status": {
+                "message": "Awaiting Bank Processing",
+                "level": 2 
+            }
+        },
+        {
+            "property": {
+                "address": {
+                    "street": "Shampura",
+                    "city": "Bangalore",
+                    "state": "Karnataka"
+                },
+                "imageUrl": "jaggedarbor.png"
+            },
+            "moveInDate": "20 March 20202",
+            "rent": 3000.00,
+            "deposit": {
+                "amount": 4600.00,
+                "type": "First & Last"
+            },
+            "status": {
+                "message": "Payment Processed",
+                "level": 3 
+            }
+        }
+    ],
+    "closed": [
+        {
+            "property": {
+                "address": {
+                    "street": "No 4272 arabic college",
+                    "city": "Arungabad",
+                    "state": "Delhi"
+                },
+                "imageUrl": "noblecape.png"
+            },
+            "moveInDate": "25 May 2022",
+            "rent": 6300.00,
+            "deposit": {
+                "amount": 6900.00,
+                "type": "Complete"
+            },
+            "status": {
+                "message": "Awaiting Bank Processing",
+                "level": 3 
+            }
+        },
+        {
+            "property": {
+                "address": {
+                    "street": "Shampura",
+                    "city": "Bangalore",
+                    "state": "Karnataka"
+                },
+                "imageUrl": "tawnymaze.png"
+            },
+            "moveInDate": "20 January 2025",
+            "rent": 2500.00,
+            "deposit": {
+                "amount": 7500.00,
+                "type": "First, Last & Security"
+            },
+            "status": {
+                "message": "Expired: No Payment Received",
+                "level": 1 
+            }
+        }
+    ]
+}
